@@ -118,13 +118,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/jaremavip3/jaremavip3/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mat0ma05zwm5zw3rnibg8gjzi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mat0ma05zwm5zw3rnibg8gjzi&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
