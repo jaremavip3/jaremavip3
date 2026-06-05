@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yarema Petrushchak and I'm a Full-Stack computer engineer, from Ukraine</p>
+<p align="left">My name is Yarema Petrushchak and I'm a Full-Stack software engineer, from Ukraine</p>
 
 ###
 
